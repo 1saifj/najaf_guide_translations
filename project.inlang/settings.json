@@ -30,7 +30,6 @@
       "services": "./messages/{languageTag}/services.json",
       "navigation": "./messages/{languageTag}/navigation.json",
       "auth": "./messages/{languageTag}/auth.json",
-      "admin": "./messages/{languageTag}/admin.json",
       "errors": "./messages/{languageTag}/errors.json",
       "validation": "./messages/{languageTag}/validation.json",
       "metadata": "./messages/{languageTag}/metadata.json",
