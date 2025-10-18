@@ -1,0 +1,10 @@
+{
+  "generic": "اوه! مشکلی پیش آمد. بیایید دوباره امتحان کنیم.",
+  "network": "الان نمی‌توانیم وصل شویم. اینترنت را چک کنید و دوباره به مسیر برمی‌گردیم!",
+  "not_found": "این صفحه را پیدا نکردیم. بیایید به خانه برگردیم!",
+  "unauthorized": "You are not authorized to access this resource",
+  "forbidden": "Access forbidden",
+  "server": "Server error. Please try again later.",
+  "validation": "Please check your input and try again.",
+  "timeout": "Request timeout. Please try again."
+}

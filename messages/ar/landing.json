@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "badge": "التطبيق الرسمي لدليل النجف",
+    "title": "اكتشف النجف",
+    "subtitle": "كما لم تعرفها من قبل",
+    "description": "رفيقك الكامل في النجف. اعثر على المطاعم، الفنادق، مراكز التسوق، الخدمات الطبية، النقل، وكل ما تحتاجه.",
+    "cta": {
+      "app_store": {
+        "prefix": "حمّل من",
+        "name": "آب ستور"
+      },
+      "google_play": {
+        "prefix": "احصل عليه من",
+        "name": "جوجل بلاي"
+      }
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "تقييم التطبيق"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "مستخدم نشط"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "موقع"
+      }
+    },
+    "phone_mockup": {
+      "navigation_label": "التنقل",
+      "navigation_sublabel": "خطوة بخطوة",
+      "reviews_label": "التقييمات",
+      "reviews_sublabel": "الموثوقة",
+      "header": "دليل النجف",
+      "welcome": "أهلاً بك في النجف",
+      "tagline": "رحلتك الروحية تبدأ هنا",
+      "search_placeholder": "...ابحث في النجف",
+      "filter": "تصفية",
+      "prayer_times": "أوقات",
+      "prayer_times_sub": "الصلاة",
+      "explore": "استكشف",
+      "explore_sub": "الأماكن",
+      "nav_profile": "الملف",
+      "nav_history": "السجل",
+      "nav_favorites": "المفضلة",
+      "nav_places": "الأماكن",
+      "nav_home": "الرئيسية"
+    }
+  },
+  "features_section": {
+    "badge": "دليل المدينة الكامل",
+    "title": "كل شيء عن النجف",
+    "subtitle": "في متناول يدك",
+    "description": "سواء كنت سائحاً تستكشف المدينة أو مقيماً يبحث عن الخدمات، نحن معك."
+  }
+}

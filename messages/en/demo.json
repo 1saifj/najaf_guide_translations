@@ -1,0 +1,25 @@
+{
+  "section": {
+    "badge": "Try it Live",
+    "title": "Experience the App",
+    "title_highlight": "Without Downloading",
+    "description": "Try our powerful search and discovery features right here."
+  },
+  "header": {
+    "title": "Najaf Guide",
+    "subtitle": "Interactive Demo"
+  },
+  "search_placeholder": "Search places in Najaf...",
+  "status": {
+    "open_now": "Open Now"
+  },
+  "actions": {
+    "get_directions": "Get Directions"
+  },
+  "cta": {
+    "title": "Impressed? This is just a glimpse of what our app can do!",
+    "button": "Download Full App",
+    "ready": "Ready to explore Najaf?",
+    "download": "Download the App"
+  }
+}

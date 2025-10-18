@@ -1,0 +1,49 @@
+{
+  "$schema": "https://inlang.com/schema/project-settings",
+  "sourceLanguageTag": "en",
+  "languageTags": [
+    "ar",
+    "en",
+    "fa",
+    "ur",
+    "ku",
+    "tr",
+    "fr",
+    "de",
+    "es",
+    "it",
+    "ru",
+    "hi",
+    "bn",
+    "ms",
+    "sw",
+    "zh"
+  ],
+  "modules": [
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@4/dist/index.js"
+  ],
+  "plugin.inlang.i18next": {
+    "pathPattern": {
+      "common": "./messages/{languageTag}/common.json",
+      "landing": "./messages/{languageTag}/landing.json",
+      "features": "./messages/{languageTag}/features.json",
+      "services": "./messages/{languageTag}/services.json",
+      "navigation": "./messages/{languageTag}/navigation.json",
+      "auth": "./messages/{languageTag}/auth.json",
+      "admin": "./messages/{languageTag}/admin.json",
+      "errors": "./messages/{languageTag}/errors.json",
+      "validation": "./messages/{languageTag}/validation.json",
+      "metadata": "./messages/{languageTag}/metadata.json",
+      "faq": "./messages/{languageTag}/faq.json",
+      "blog": "./messages/{languageTag}/blog.json",
+      "showcase": "./messages/{languageTag}/showcase.json",
+      "demo": "./messages/{languageTag}/demo.json",
+      "footer": "./messages/{languageTag}/footer.json",
+      "featuresModern": "./messages/{languageTag}/featuresModern.json",
+      "heroModern": "./messages/{languageTag}/heroModern.json",
+      "cookies": "./messages/{languageTag}/cookies.json",
+      "disclaimer": "./messages/{languageTag}/disclaimer.json",
+      "appreciation": "./messages/{languageTag}/appreciation.json"
+    }
+  }
+}

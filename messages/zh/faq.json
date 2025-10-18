@@ -1,0 +1,62 @@
+{
+  "badge": "Help Center",
+  "title": "Frequently Asked Questions",
+  "subtitle": "Everything You Need to Know",
+  "description": "Find answers to common questions about Najaf Guide app and services",
+  "searchPlaceholder": "Search for answers...",
+  "sectionBadge": "Popular Questions",
+  "sectionTitle": "Browse by Category",
+  "sectionDescription": "Select a category to find relevant questions and answers",
+  "stillNeedHelp": "Still need help?",
+  "contactSupport": "Our support team is available 24/7 to assist you",
+  "contactButton": "Contact Support",
+  "categories": {
+    "general": "General",
+    "app": "Mobile App",
+    "places": "Places & Locations",
+    "services": "Services",
+    "account": "Account & Privacy"
+  },
+  "items": {
+    "1": {
+      "question": "What is Najaf Guide?",
+      "answer": "Najaf Guide is a comprehensive mobile application designed to help visitors and residents of Najaf discover holy sites, restaurants, hotels, hospitals, and other essential services. It provides detailed information, directions, and user reviews to enhance your experience in the holy city."
+    },
+    "2": {
+      "question": "Is Najaf Guide free to use?",
+      "answer": "Yes, Najaf Guide is completely free to download and use. All features including navigation, place information, and service listings are available at no cost to our users."
+    },
+    "3": {
+      "question": "How do I download the mobile app?",
+      "answer": "You can download Najaf Guide from the Google Play Store for Android devices or the Apple App Store for iOS devices. Simply search for 'Najaf Guide' in your device's app store and tap install."
+    },
+    "4": {
+      "question": "Does the app work offline?",
+      "answer": "Yes, Najaf Guide offers offline functionality for previously viewed content. You can download maps and place information for offline access, ensuring you can navigate even without an internet connection."
+    },
+    "5": {
+      "question": "How accurate is the location information?",
+      "answer": "We work diligently to maintain accurate and up-to-date location information. Our database is regularly updated with input from local partners and user feedback. GPS accuracy depends on your device and signal strength."
+    },
+    "6": {
+      "question": "Can I suggest new places to add?",
+      "answer": "Absolutely! We welcome user contributions. You can suggest new places through the app's 'Add a Place' feature. Our team reviews all submissions to ensure accuracy before adding them to the database."
+    },
+    "7": {
+      "question": "What emergency services are available?",
+      "answer": "Najaf Guide provides quick access to emergency services including hospitals, pharmacies, police stations, and emergency hotlines. Tap the emergency button in the app for immediate access to these critical services."
+    },
+    "8": {
+      "question": "How do I book hotels or transportation?",
+      "answer": "While Najaf Guide provides comprehensive information about hotels and transportation services, actual bookings are made directly with the service providers. We provide contact information and links to help you connect with them."
+    },
+    "9": {
+      "question": "How is my privacy protected?",
+      "answer": "We take your privacy seriously. Najaf Guide only collects necessary information to provide services and never shares your personal data with third parties without your consent. Read our privacy policy for detailed information."
+    },
+    "10": {
+      "question": "Do I need to create an account?",
+      "answer": "No account is required to use basic features of Najaf Guide. However, creating a free account allows you to save favorite places, write reviews, and sync your preferences across devices."
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "badge": "Najaf Guide Official App",
+    "title": "Explore Najaf",
+    "subtitle": "Like a Local",
+    "description": "Your complete city companion for Najaf. Find restaurants, hotels, shopping centers, medical services, transportation, and everything you need.",
+    "cta": {
+      "app_store": {
+        "prefix": "Download on",
+        "name": "App Store"
+      },
+      "google_play": {
+        "prefix": "Get it on",
+        "name": "Google Play"
+      }
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "App Rating"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Active Users"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Locations"
+      }
+    },
+    "phone_mockup": {
+      "navigation_label": "Turn-by-turn",
+      "navigation_sublabel": "Navigation",
+      "reviews_label": "Verified",
+      "reviews_sublabel": "Reviews",
+      "header": "Najaf Guide",
+      "welcome": "Welcome to Najaf",
+      "tagline": "Your spiritual journey begins here",
+      "search_placeholder": "...Search Najaf",
+      "filter": "Filter",
+      "prayer_times": "Prayer",
+      "prayer_times_sub": "Times",
+      "explore": "Explore",
+      "explore_sub": "Places",
+      "nav_profile": "Profile",
+      "nav_history": "History",
+      "nav_favorites": "Favorites",
+      "nav_places": "Places",
+      "nav_home": "Home"
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

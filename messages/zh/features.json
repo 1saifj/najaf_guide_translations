@@ -1,0 +1,47 @@
+{
+  "restaurants": {
+    "title": "餐厅和美食",
+    "description": "再也不用问'去哪里吃'！探索经过验证的清真餐厅，阅读真实评论，找到您新的最爱地点。",
+    "stats": "2,500+ 已验证"
+  },
+  "hotels": {
+    "title": "Hotels & Stays",
+    "description": "Find and book hotels, apartments, and guesthouses.",
+    "stats": "500+ Hotels"
+  },
+  "shopping": {
+    "title": "Shopping Centers",
+    "description": "Shop at modern malls, traditional souks, and local markets.",
+    "stats": "300+ Stores"
+  },
+  "healthcare": {
+    "title": "Healthcare Services",
+    "description": "Locate hospitals, clinics, pharmacies, and emergency services.",
+    "stats": "24/7 Support"
+  },
+  "transportation": {
+    "title": "Transportation",
+    "description": "Book taxis, rent cars, find public transport routes.",
+    "stats": "Real-time Info"
+  },
+  "attractions": {
+    "title": "Tourist Attractions",
+    "description": "Explore historical sites, museums, parks, and cultural landmarks.",
+    "stats": "100+ Sites"
+  },
+  "cafes": {
+    "title": "Cafes & Lounges",
+    "description": "Find cozy cafes, tea houses, and social lounges.",
+    "stats": "450+ Cafes"
+  },
+  "banking": {
+    "title": "Banking & ATMs",
+    "description": "Locate banks, ATMs, and currency exchange offices.",
+    "stats": "150+ Locations"
+  },
+  "navigation": {
+    "title": "City Navigation",
+    "description": "Turn-by-turn navigation with offline maps.",
+    "stats": "Offline Maps"
+  }
+}

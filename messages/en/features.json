@@ -1,0 +1,61 @@
+{
+  "section": {
+    "badge": "Complete City Guide",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist or a resident, we've got you covered with comprehensive information and real-time updates."
+  },
+  "items": {
+    "restaurants": {
+      "title": "Restaurants & Dining",
+      "description": "Discover local cuisine, international restaurants, cafes, and food delivery.",
+      "stats": "2,500+ Places"
+    },
+    "hotels": {
+      "title": "Hotels & Stays",
+      "description": "Find and book hotels, apartments, and guesthouses near holy sites.",
+      "stats": "500+ Hotels"
+    },
+    "shopping": {
+      "title": "Shopping Centers",
+      "description": "Shop at modern malls, traditional souks, and local markets.",
+      "stats": "300+ Stores"
+    },
+    "healthcare": {
+      "title": "Healthcare Services",
+      "description": "Locate hospitals, clinics, pharmacies, and emergency services.",
+      "stats": "24/7 Support"
+    },
+    "transportation": {
+      "title": "Transportation",
+      "description": "Book taxis, rent cars, find public transport routes with real-time updates.",
+      "stats": "Real-time Info"
+    },
+    "attractions": {
+      "title": "Tourist Attractions",
+      "description": "Explore historical sites, museums, parks, and cultural landmarks.",
+      "stats": "100+ Sites"
+    },
+    "cafes": {
+      "title": "Cafes & Lounges",
+      "description": "Find cozy cafes, tea houses, and social lounges for meetings.",
+      "stats": "450+ Cafes"
+    },
+    "banking": {
+      "title": "Banking & ATMs",
+      "description": "Locate banks, ATMs, and currency exchange offices quickly.",
+      "stats": "150+ Locations"
+    },
+    "navigation": {
+      "title": "City Navigation",
+      "description": "Turn-by-turn navigation with offline maps and traffic avoidance.",
+      "stats": "Offline Maps"
+    }
+  },
+  "stats": {
+    "places": "Listed Places",
+    "users": "Active Users",
+    "rating": "User Rating",
+    "languages": "Languages"
+  }
+}

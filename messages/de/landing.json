@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 Die Nr. 1 Stadt-App für Nadschaf",
+    "title": "Navigieren Sie durch Nadschaf",
+    "subtitle": "Mit Vertrauen",
+    "description": "Schließen Sie sich 50.000+ Nutzern an, die das Beste von Nadschaf entdecken. Von versteckten Restaurants bis zu vertrauenswürdigen Notdiensten - erleben Sie die Stadt wie nie zuvor.",
+    "cta": {
+      "app_store": "Kostenlos im App Store",
+      "google_play": "Kostenlos bei Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Nutzerbewertung"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Zufriedene Nutzer"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Verifizierte Orte"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

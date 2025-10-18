@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 नजफ़ की #1 सिटी ऐप",
+    "title": "नजफ़ को एक्सप्लोर करें",
+    "subtitle": "पूर्ण विश्वास के साथ",
+    "description": "50,000+ उपयोगकर्ताओं में शामिल हों जो नजफ़ के सर्वश्रेष्ठ की खोज कर रहे हैं। छिपे हुए रेस्तरां से लेकर विश्वसनीय आपातकालीन सेवाओं तक, शहर का अनुभव अभूतपूर्व तरीके से करें।",
+    "cta": {
+      "app_store": "ऐप स्टोर से मुफ्त डाउनलोड करें",
+      "google_play": "गूगल प्ले से मुफ्त पाएं"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "उपयोगकर्ता रेटिंग"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "खुश उपयोगकर्ता"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "सत्यापित स्थान"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

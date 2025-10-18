@@ -1,0 +1,54 @@
+{
+  "badge": "POWERFUL FEATURES",
+  "section": {
+    "title": "Everything You Need for Your",
+    "title_highlight": "Spiritual Journey",
+    "description": "Comprehensive features designed to enhance your pilgrimage experience in the holy city of Najaf"
+  },
+  "features": {
+    "holy_sites": {
+      "title": "Holy Sites Navigation",
+      "title_ar": "التنقل في المواقع المقدسة",
+      "description": "Turn-by-turn navigation to all sacred locations in Najaf with accurate GPS tracking."
+    },
+    "prayer_times": {
+      "title": "Prayer Times",
+      "title_ar": "أوقات الصلاة",
+      "description": "Accurate prayer times with automatic notifications and Qibla direction compass."
+    },
+    "offline_maps": {
+      "title": "Offline Maps",
+      "title_ar": "خرائط بدون إنترنت",
+      "description": "Download maps for offline use, perfect for international visitors with limited connectivity."
+    },
+    "community_reviews": {
+      "title": "Community Reviews",
+      "title_ar": "تقييمات المجتمع",
+      "description": "Read authentic reviews and ratings from fellow pilgrims about services and locations."
+    },
+    "verified_places": {
+      "title": "Verified Places",
+      "title_ar": "أماكن موثقة",
+      "description": "All locations are verified and approved by local authorities for safety and authenticity."
+    },
+    "multi_language": {
+      "title": "Multi-language Support",
+      "title_ar": "دعم متعدد اللغات",
+      "description": "Available in Arabic, English, Urdu, Persian, and more languages for global pilgrims."
+    }
+  },
+  "stats": {
+    "pilgrims": {
+      "value": "100K+",
+      "label": "Happy Pilgrims"
+    },
+    "rating": {
+      "value": "4.9/5",
+      "label": "User Rating"
+    },
+    "languages": {
+      "value": "15+",
+      "label": "Languages"
+    }
+  }
+}

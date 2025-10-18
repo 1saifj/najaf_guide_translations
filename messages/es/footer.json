@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "title": "Najaf Guide",
+    "subtitle": "دليل النجف",
+    "description": "Your complete city companion for discovering restaurants, hotels, shopping, healthcare, and everything Najaf has to offer."
+  },
+  "download": {
+    "app_store": {
+      "prefix": "Download on",
+      "name": "App Store"
+    },
+    "google_play": {
+      "prefix": "Get it on",
+      "name": "Google Play"
+    }
+  },
+  "sections": {
+    "explore": {
+      "title": "Explore",
+      "city_features": "City Features",
+      "app_preview": "App Preview",
+      "services": "Services",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "disclaimer": "Disclaimer",
+      "appreciation": "Appreciation"
+    },
+    "contact": {
+      "title": "Get in Touch"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2025 Najaf Guide. All rights reserved.",
+    "support": "Support",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "translate": "Ayudar a traducir"
+  }
+}

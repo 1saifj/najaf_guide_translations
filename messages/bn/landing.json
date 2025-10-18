@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 নাজাফের #১ সিটি অ্যাপ",
+    "title": "নাজাফ আবিষ্কার করুন",
+    "subtitle": "পূর্ণ আত্মবিশ্বাসের সাথে",
+    "description": "৫০,০০০+ ব্যবহারকারীর সাথে যোগ দিন যারা নাজাফের সেরা আবিষ্কার করছেন। লুকানো রেস্তোরাঁ থেকে বিশ্বস্ত জরুরি সেবা পর্যন্ত, শহরটি অভূতপূর্ব উপায়ে অনুভব করুন।",
+    "cta": {
+      "app_store": "অ্যাপ স্টোর থেকে বিনামূল্যে পান",
+      "google_play": "গুগল প্লে থেকে বিনামূল্যে পান"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "App Rating"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Active Users"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Locations"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

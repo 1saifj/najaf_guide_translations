@@ -1,0 +1,29 @@
+{
+  "logo": {
+    "title": "Najaf Guide",
+    "subtitle": "Your Complete City Guide"
+  },
+  "main": {
+    "home": "Home",
+    "features": "Features",
+    "showcase": "App Preview",
+    "services": "Services",
+    "faq": "FAQ",
+    "about": "About",
+    "contact": "Contact",
+    "download": "Download"
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "separator": "/"
+  }
+}

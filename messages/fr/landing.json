@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 App N°1 de la Ville de Nadjaf",
+    "title": "Naviguez dans Nadjaf",
+    "subtitle": "En Toute Confiance",
+    "description": "Rejoignez 50 000+ utilisateurs découvrant le meilleur de Nadjaf. Des restaurants cachés aux services d'urgence fiables, vivez la ville comme jamais auparavant.",
+    "cta": {
+      "app_store": "Gratuit sur l'App Store",
+      "google_play": "Gratuit sur Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Note des Utilisateurs"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Utilisateurs Heureux"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Lieux Vérifiés"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 Necef'in #1 Şehir Uygulaması",
+    "title": "Necef'i Keşfedin",
+    "subtitle": "Tam Güvenle",
+    "description": "Necef'in en iyilerini keşfeden 50.000+ kullanıcıya katılın. Gizli restoran mekânlarından güvenilir acil servislere, şehri benzersiz bir şekilde deneyimleyin.",
+    "cta": {
+      "app_store": "App Store'dan Ücretsiz İndirin",
+      "google_play": "Google Play'den Ücretsiz İndirin"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Kullanıcı Puanı"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Mutlu Kullanıcı"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Doğrulanmış Yer"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

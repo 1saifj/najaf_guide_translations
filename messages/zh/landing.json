@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 纳杰夫第一城市应用",
+    "title": "探索纳杰夫",
+    "subtitle": "充满信心",
+    "description": "加入50,000+用户，发现纳杰夫最好的一面。从隐藏的餐厅到可靠的紧急服务，以前所未有的方式体验这座城市。",
+    "cta": {
+      "app_store": "App Store免费下载",
+      "google_play": "Google Play免费获取"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "用户评分"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "快乐用户"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "验证地点"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "generic": "An error occurred. Please try again.",
+  "network": "Network error. Please check your connection.",
+  "not_found": "Page not found",
+  "unauthorized": "You are not authorized to access this resource",
+  "forbidden": "Access forbidden",
+  "server": "Server error. Please try again later.",
+  "validation": "Please check your input and try again.",
+  "timeout": "Request timeout. Please try again."
+}

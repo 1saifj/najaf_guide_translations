@@ -1,0 +1,60 @@
+{
+  "badge": "Necef Rehberi Resmi Uygulaması",
+  "title": {
+    "part1": "Manevi Yolculuğunuz",
+    "part2": "Burada Başlıyor"
+  },
+  "title_ar": "رحلتك الروحية تبدأ هنا",
+  "description": "Kapsamlı rehberimizle kutsal Necef şehrini keşfedin. Kutsal mekanları keşfedin, yakındaki hizmetleri bulun ve hac deneyiminizi zenginleştirin.",
+  "cta": {
+    "app_store": {
+      "prefix": "App Store'dan",
+      "name": "İndirin"
+    },
+    "google_play": {
+      "prefix": "Google Play'den",
+      "name": "Edinin"
+    }
+  },
+  "stats": {
+    "rating": {
+      "value": "4.9",
+      "label": "Uygulama Puanı"
+    },
+    "users": {
+      "value": "50K+",
+      "label": "Aktif Kullanıcı"
+    },
+    "locations": {
+      "value": "500+",
+      "label": "Konum"
+    }
+  },
+  "features": {
+    "navigation": {
+      "title": "Adım Adım",
+      "subtitle": "Kutsal mekanlara navigasyon"
+    },
+    "prayer": {
+      "title": "Namaz Vakitleri",
+      "subtitle": "Günlük hassas zamanlar"
+    },
+    "security": {
+      "title": "Güvenli ve Emniyetli",
+      "subtitle": "Sadece doğrulanmış konumlar"
+    }
+  },
+  "phone_screen": {
+    "header": "Necef Rehberi",
+    "tagline": "دليل النجف الشامل",
+    "quick_actions": {
+      "holy_sites": "Kutsal Mekanlar",
+      "prayer_times": "Namaz Vakitleri",
+      "navigate": "Yol Tarifi"
+    },
+    "map": {
+      "title": "Etkileşimli Harita",
+      "subtitle": "Necef'i Keşfedin"
+    }
+  }
+}

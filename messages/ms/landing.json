@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 Apl Bandar #1 Najaf",
+    "title": "Terokai Najaf",
+    "subtitle": "Dengan Keyakinan",
+    "description": "Sertai 50,000+ pengguna yang menemui yang terbaik di Najaf. Dari restoran tersembunyi hingga perkhidmatan kecemasan yang dipercayai, alami bandar dengan cara yang belum pernah berlaku.",
+    "cta": {
+      "app_store": "Percuma di App Store",
+      "google_play": "Percuma di Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "App Rating"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Active Users"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Locations"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

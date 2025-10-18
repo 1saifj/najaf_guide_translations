@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 Приложение №1 в Наджафе",
+    "title": "Исследуйте Наджаф",
+    "subtitle": "С Уверенностью",
+    "description": "Присоединяйтесь к 50 000+ пользователей, открывающих лучшее в Наджафе. От скрытых ресторанов до надежных экстренных служб - испытайте город как никогда раньше.",
+    "cta": {
+      "app_store": "Бесплатно в App Store",
+      "google_play": "Бесплатно в Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Рейтинг Пользователей"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Счастливых Пользователей"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Проверенных Мест"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

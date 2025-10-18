@@ -1,0 +1,60 @@
+{
+  "badge": "Aplicación Oficial Najaf Guide",
+  "title": {
+    "part1": "Tu Viaje Espiritual",
+    "part2": "Comienza Aquí"
+  },
+  "title_ar": "رحلتك الروحية تبدأ هنا",
+  "description": "Explora la ciudad santa de Najaf con nuestra guía completa. Descubre sitios sagrados, encuentra servicios cercanos y mejora tu experiencia de peregrinación.",
+  "cta": {
+    "app_store": {
+      "prefix": "Descargar en",
+      "name": "App Store"
+    },
+    "google_play": {
+      "prefix": "Disponible en",
+      "name": "Google Play"
+    }
+  },
+  "stats": {
+    "rating": {
+      "value": "4.9",
+      "label": "Calificación de la App"
+    },
+    "users": {
+      "value": "50K+",
+      "label": "Usuarios Activos"
+    },
+    "locations": {
+      "value": "500+",
+      "label": "Ubicaciones"
+    }
+  },
+  "features": {
+    "navigation": {
+      "title": "Paso a Paso",
+      "subtitle": "Navegación a sitios sagrados"
+    },
+    "prayer": {
+      "title": "Horarios de Oración",
+      "subtitle": "Horarios diarios precisos"
+    },
+    "security": {
+      "title": "Seguro y Protegido",
+      "subtitle": "Solo ubicaciones verificadas"
+    }
+  },
+  "phone_screen": {
+    "header": "Najaf Guide",
+    "tagline": "دليل النجف الشامل",
+    "quick_actions": {
+      "holy_sites": "Sitios Sagrados",
+      "prayer_times": "Horarios de Oración",
+      "navigate": "Navegar"
+    },
+    "map": {
+      "title": "Mapa Interactivo",
+      "subtitle": "Explorar Najaf"
+    }
+  }
+}

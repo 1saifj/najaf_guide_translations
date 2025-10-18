@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 Programu ya #1 ya Jiji la Najaf",
+    "title": "Gundua Najaf",
+    "subtitle": "Kwa Ujasiri",
+    "description": "Jiunge na watumiaji 50,000+ wanaogundua bora zaidi za Najaf. Kutoka mikahawa iliyofichika hadi huduma za dharura zinazotegemewa, pata uzoefu wa jiji kwa njia ya kipekee.",
+    "cta": {
+      "app_store": "Bure kwenye App Store",
+      "google_play": "Bure kwenye Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "App Rating"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Active Users"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Locations"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

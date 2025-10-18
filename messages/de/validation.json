@@ -1,0 +1,16 @@
+{
+  "required": "This field is required",
+  "email": "Please enter a valid email address",
+  "min_length": "Must be at least {min} characters",
+  "max_length": "Must be no more than {max} characters",
+  "pattern": "Invalid format",
+  "match": "Fields do not match",
+  "unique": "This value is already taken",
+  "numeric": "Must be a number",
+  "alphanumeric": "Must contain only letters and numbers",
+  "phone": "Please enter a valid phone number",
+  "url": "Please enter a valid URL",
+  "date": "Please enter a valid date",
+  "future_date": "Date must be in the future",
+  "past_date": "Date must be in the past"
+}

@@ -1,0 +1,42 @@
+{
+  "section": {
+    "badge": "App Experience",
+    "title": "Experience the Future of",
+    "title_highlight": "City Navigation",
+    "description": "Cutting-edge features designed to make your city exploration seamless and enjoyable"
+  },
+  "features": {
+    "smart_discovery": {
+      "title": "Smart Discovery",
+      "description": "AI-powered recommendations based on your preferences and location.",
+      "items": {
+        "voice": "Voice Search",
+        "ar": "AR View",
+        "filters": "Smart Filters"
+      }
+    },
+    "live_navigation": {
+      "title": "Live Navigation",
+      "description": "Real-time GPS navigation with traffic updates and alternate routes."
+    },
+    "virtual_tours": {
+      "title": "Virtual Tours",
+      "description": "Explore places virtually before visiting with immersive 360° views."
+    },
+    "community": {
+      "title": "Community Hub",
+      "description": "Connect with locals and travelers, share experiences and tips."
+    }
+  },
+  "demo": {
+    "search_placeholder": "Search places...",
+    "sample_location": "Sample Location",
+    "category_distance": "Category • 1.2 km"
+  },
+  "cta": {
+    "title": "Ready to Explore Najaf?",
+    "description": "Join thousands of users already discovering the best of Najaf",
+    "download_ios": "Download for iOS",
+    "download_android": "Download for Android"
+  }
+}

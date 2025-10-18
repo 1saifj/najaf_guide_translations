@@ -1,0 +1,60 @@
+{
+  "badge": "Najaf Guide Offizielle App",
+  "title": {
+    "part1": "Ihre Spirituelle Reise",
+    "part2": "Beginnt Hier"
+  },
+  "title_ar": "رحلتك الروحية تبدأ هنا",
+  "description": "Erkunden Sie die heilige Stadt Najaf mit unserem umfassenden Leitfaden. Entdecken Sie heilige Stätten, finden Sie nahegelegene Dienstleistungen und bereichern Sie Ihre Pilgerreise.",
+  "cta": {
+    "app_store": {
+      "prefix": "Laden im",
+      "name": "App Store"
+    },
+    "google_play": {
+      "prefix": "Jetzt bei",
+      "name": "Google Play"
+    }
+  },
+  "stats": {
+    "rating": {
+      "value": "4.9",
+      "label": "App-Bewertung"
+    },
+    "users": {
+      "value": "50K+",
+      "label": "Aktive Nutzer"
+    },
+    "locations": {
+      "value": "500+",
+      "label": "Standorte"
+    }
+  },
+  "features": {
+    "navigation": {
+      "title": "Schritt-für-Schritt",
+      "subtitle": "Navigation zu heiligen Stätten"
+    },
+    "prayer": {
+      "title": "Gebetszeiten",
+      "subtitle": "Präzise tägliche Zeiten"
+    },
+    "security": {
+      "title": "Sicher & Geschützt",
+      "subtitle": "Nur verifizierte Standorte"
+    }
+  },
+  "phone_screen": {
+    "header": "Najaf Guide",
+    "tagline": "دليل النجف الشامل",
+    "quick_actions": {
+      "holy_sites": "Heilige Stätten",
+      "prayer_times": "Gebetszeiten",
+      "navigate": "Navigieren"
+    },
+    "map": {
+      "title": "Interaktive Karte",
+      "subtitle": "Najaf Erkunden"
+    }
+  }
+}

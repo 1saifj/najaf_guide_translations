@@ -1,0 +1,16 @@
+{
+  "required": "نحتاج هذا لمساعدتك بشكل أفضل",
+  "email": "لنستخدم بريداً صحيحاً (example@domain.com)",
+  "min_length": "فقط {min} أحرف أو أكثر",
+  "max_length": "أبقه أقل من {max} حرف",
+  "pattern": "Invalid format",
+  "match": "Fields do not match",
+  "unique": "This value is already taken",
+  "numeric": "Must be a number",
+  "alphanumeric": "Must contain only letters and numbers",
+  "phone": "Please enter a valid phone number",
+  "url": "Please enter a valid URL",
+  "date": "Please enter a valid date",
+  "future_date": "Date must be in the future",
+  "past_date": "Date must be in the past"
+}

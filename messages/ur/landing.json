@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "badge": "نجف گائیڈ آفیشل ایپ",
+    "title": "نجف کو دریافت کریں",
+    "subtitle": "مقامی انداز میں",
+    "description": "نجف کے لیے آپ کا مکمل شہری ساتھی۔ ریستوران، ہوٹل، شاپنگ سینٹرز، طبی خدمات، نقل و حمل اور جو کچھ آپ کو چاہیے تلاش کریں۔",
+    "cta": {
+      "app_store": {
+        "prefix": "ڈاؤن لوڈ کریں",
+        "name": "ایپ سٹور"
+      },
+      "google_play": {
+        "prefix": "حاصل کریں",
+        "name": "گوگل پلے"
+      }
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "ایپ ریٹنگ"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "فعال صارفین"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "مقامات"
+      }
+    },
+    "phone_mockup": {
+      "navigation_label": "موڑ-بہ-موڑ",
+      "navigation_sublabel": "نیوی گیشن",
+      "reviews_label": "تصدیق شدہ",
+      "reviews_sublabel": "جائزے",
+      "header": "نجف گائیڈ",
+      "welcome": "نجف میں خوش آمدید",
+      "tagline": "آپ کا روحانی سفر یہاں سے شروع ہوتا ہے",
+      "search_placeholder": "...نجف تلاش کریں",
+      "filter": "فلٹر",
+      "prayer_times": "نماز",
+      "prayer_times_sub": "اوقات",
+      "explore": "دریافت",
+      "explore_sub": "مقامات",
+      "nav_profile": "پروفائل",
+      "nav_history": "تاریخ",
+      "nav_favorites": "پسندیدہ",
+      "nav_places": "مقامات",
+      "nav_home": "ہوم"
+    }
+  },
+  "features_section": {
+    "badge": "مکمل شہری رہنما",
+    "title": "ہر چیز نجف",
+    "subtitle": "آپ کی انگلیوں پر",
+    "description": "خواہ آپ سیاح ہوں یا رہائشی، ہم نے آپ کو جامع معلومات اور حقیقی وقت کی اپ ڈیٹس کے ساتھ شامل کیا ہے۔"
+  }
+}

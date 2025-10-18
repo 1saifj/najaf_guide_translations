@@ -1,0 +1,10 @@
+{
+  "generic": "عفواً! حدث خطأ ما. دعنا نحاول مرة أخرى.",
+  "network": "لا يمكن الاتصال الآن. تحقق من الإنترنت وسنعيدك للمسار الصحيح!",
+  "not_found": "لم نتمكن من العثور على هذه الصفحة. دعنا نعيدك للصفحة الرئيسية!",
+  "unauthorized": "يرجى تسجيل الدخول لمواصلة رحلتك معنا.",
+  "forbidden": "Access forbidden",
+  "server": "خوادمنا تأخذ استراحة سريعة. سنعود حالاً!",
+  "validation": "Please check your input and try again.",
+  "timeout": "Request timeout. Please try again."
+}

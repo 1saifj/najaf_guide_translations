@@ -1,0 +1,42 @@
+{
+  "section": {
+    "title": "Comprehensive Directory",
+    "description": "Find everything you need for your visit to Najaf in one place"
+  },
+  "items": {
+    "hotels": {
+      "title": "Hotels & Accommodation",
+      "count": "200+",
+      "description": "From budget to luxury hotels near holy sites"
+    },
+    "restaurants": {
+      "title": "Restaurants & Cafes",
+      "count": "150+",
+      "description": "Halal restaurants with local and international cuisine"
+    },
+    "transportation": {
+      "title": "Transportation",
+      "count": "50+",
+      "description": "Taxi services, car rentals, and shuttle buses"
+    },
+    "shopping": {
+      "title": "Shopping Centers",
+      "count": "80+",
+      "description": "Souks, malls, and gift shops for souvenirs"
+    },
+    "healthcare": {
+      "title": "Healthcare",
+      "count": "30+",
+      "description": "Hospitals, clinics, and pharmacies"
+    },
+    "travel": {
+      "title": "Travel Services",
+      "count": "40+",
+      "description": "Tour operators and travel agencies"
+    }
+  },
+  "cta": {
+    "downloadApp": "Download App",
+    "exploreFeatures": "Explore Features"
+  }
+}

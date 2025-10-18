@@ -1,0 +1,10 @@
+{
+  "generic": "Hata! Bir şeyler yanlış gitti. Tekrar deneyelim.",
+  "network": "Şu an bağlanamıyoruz. İnternetinizi kontrol edin, sizi tekrar yola koyacağız!",
+  "not_found": "Page not found",
+  "unauthorized": "You are not authorized to access this resource",
+  "forbidden": "Access forbidden",
+  "server": "Server error. Please try again later.",
+  "validation": "Please check your input and try again.",
+  "timeout": "Request timeout. Please try again."
+}

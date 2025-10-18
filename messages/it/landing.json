@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 L'App #1 della Città di Najaf",
+    "title": "Naviga a Najaf",
+    "subtitle": "Con Fiducia",
+    "description": "Unisciti a oltre 50.000 utenti che scoprono il meglio di Najaf. Dai ristoranti nascosti ai servizi di emergenza affidabili, vivi la città come mai prima.",
+    "cta": {
+      "app_store": "Gratis su App Store",
+      "google_play": "Gratis su Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Valutazione Utenti"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Utenti Felici"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Luoghi Verificati"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}

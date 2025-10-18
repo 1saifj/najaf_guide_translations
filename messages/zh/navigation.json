@@ -1,0 +1,22 @@
+{
+  "main": {
+    "home": "Home",
+    "features": "Features",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "separator": "/"
+  }
+}

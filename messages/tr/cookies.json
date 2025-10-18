@@ -1,0 +1,59 @@
+{
+  "page": {
+    "title": "Cookie Policy",
+    "subtitle": "We use cookies to improve your experience",
+    "updated": "Last Updated: January 2025"
+  },
+  "intro": {
+    "text": "This Cookie Policy explains what cookies are, how we use them, and the types of cookies we use. By using our app and services, you consent to the use of cookies in accordance with this policy."
+  },
+  "sections": {
+    "what_are": {
+      "title": "What Are Cookies?",
+      "content": [
+        "Cookies are small text files stored on your device",
+        "They help us remember your preferences and settings",
+        "Improve user experience and app performance",
+        "Provide personalized content and features"
+      ]
+    },
+    "types": {
+      "title": "Types of Cookies",
+      "essential": {
+        "title": "Essential",
+        "description": "Required for basic app functionality"
+      },
+      "functional": {
+        "title": "Functional",
+        "description": "Enhance app features and remember preferences"
+      },
+      "analytics": {
+        "title": "Analytics",
+        "description": "Help us understand how the app is used"
+      },
+      "marketing": {
+        "title": "Marketing",
+        "description": "Show relevant content and advertisements"
+      }
+    },
+    "usage": {
+      "title": "How We Use Cookies",
+      "content": [
+        "Keep you logged in during sessions",
+        "Remember language and location preferences",
+        "Analyze app usage patterns",
+        "Personalize content recommendations",
+        "Improve app performance"
+      ]
+    },
+    "control": {
+      "title": "Controlling Cookies",
+      "content": [
+        "You can manage cookie preferences in app settings",
+        "Most browsers allow you to refuse cookies",
+        "Disabling cookies may limit some features",
+        "You can delete cookies at any time"
+      ]
+    }
+  }
+}

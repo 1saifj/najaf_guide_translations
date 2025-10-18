@@ -1,0 +1,23 @@
+{
+  "emergency": {
+    "title": "Emergency Services",
+    "police": "Police",
+    "fire": "Fire Department",
+    "ambulance": "Ambulance",
+    "hospital": "Hospital"
+  },
+  "utilities": {
+    "title": "Utilities",
+    "electricity": "Electricity",
+    "water": "Water",
+    "gas": "Gas",
+    "internet": "Internet"
+  },
+  "government": {
+    "title": "Government Services",
+    "municipality": "Municipality",
+    "immigration": "Immigration",
+    "tax": "Tax Office",
+    "postal": "Postal Service"
+  }
+}

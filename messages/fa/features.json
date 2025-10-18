@@ -1,0 +1,47 @@
+{
+  "restaurants": {
+    "title": "رستوران‌ها و غذاخوری",
+    "description": "دیگر نپرسید 'کجا غذا بخورم'! رستوران‌های حلال تأیید شده را کشف کنید، نظرات واقعی بخوانید، و مکان مورد علاقه جدیدتان را پیدا کنید.",
+    "stats": "2,500+ تأیید شده"
+  },
+  "hotels": {
+    "title": "هتل‌ها و اقامتگاه‌ها",
+    "description": "با اطمینان رزرو کنید! قیمت‌ها را مقایسه کنید، نظرات مهمانان را بخوانید، و اقامتگاه عالی نزدیک اماکن مقدس یا مناطق تجاری پیدا کنید.",
+    "stats": "500+ گزینه"
+  },
+  "shopping": {
+    "title": "Shopping Centers",
+    "description": "Shop at modern malls, traditional souks, and local markets.",
+    "stats": "300+ Stores"
+  },
+  "healthcare": {
+    "title": "خدمات بهداشتی",
+    "description": "سلامتی شما منتظر نمی‌ماند! فوراً نزدیک‌ترین بیمارستان، داروخانه‌های 24/7، و خدمات اورژانسی را هنگامی که بیشترین نیاز دارید پیدا کنید.",
+    "stats": "24/7 در دسترس"
+  },
+  "transportation": {
+    "title": "Transportation",
+    "description": "Book taxis, rent cars, find public transport routes.",
+    "stats": "Real-time Info"
+  },
+  "attractions": {
+    "title": "Tourist Attractions",
+    "description": "Explore historical sites, museums, parks, and cultural landmarks.",
+    "stats": "100+ Sites"
+  },
+  "cafes": {
+    "title": "Cafes & Lounges",
+    "description": "Find cozy cafes, tea houses, and social lounges.",
+    "stats": "450+ Cafes"
+  },
+  "banking": {
+    "title": "Banking & ATMs",
+    "description": "Locate banks, ATMs, and currency exchange offices.",
+    "stats": "150+ Locations"
+  },
+  "navigation": {
+    "title": "City Navigation",
+    "description": "Turn-by-turn navigation with offline maps.",
+    "stats": "Offline Maps"
+  }
+}

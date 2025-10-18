@@ -1,0 +1,57 @@
+{
+  "page": {
+    "title": "Disclaimer",
+    "subtitle": "Important legal information about our services",
+    "updated": "Last Updated: January 2025"
+  },
+  "intro": {
+    "text": "The information provided by Najaf Guide app is for general informational purposes only. While we strive to keep the information accurate and updated, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability of the app or information."
+  },
+  "sections": {
+    "accuracy": {
+      "title": "Information Accuracy",
+      "content": [
+        "We make every effort to provide accurate and up-to-date information",
+        "Information may contain inaccuracies or typographical errors",
+        "We do not guarantee the completeness or accuracy of all information",
+        "Users should independently verify important information"
+      ]
+    },
+    "thirdparty": {
+      "title": "Third-Party Content",
+      "content": [
+        "The app may contain reviews and ratings from users",
+        "We are not responsible for the accuracy of user-generated content",
+        "Opinions expressed are those of individual users",
+        "We reserve the right to remove any inappropriate content"
+      ]
+    },
+    "availability": {
+      "title": "Service Availability",
+      "content": [
+        "The service may not be continuously available",
+        "We may suspend or discontinue service temporarily for maintenance",
+        "We are not liable for any downtime or interruption",
+        "App features may change without notice"
+      ]
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": [
+        "We will not be liable for any direct or indirect damages",
+        "Use the app at your own risk",
+        "We are not responsible for decisions based on app content",
+        "Full responsibility lies with the user"
+      ]
+    },
+    "changes": {
+      "title": "Changes to Service",
+      "content": [
+        "We reserve the right to modify or discontinue the service",
+        "We may update this disclaimer at any time",
+        "Periodic review of this page is advised",
+        "Continued use implies acceptance of changes"
+      ]
+    }
+  }
+}

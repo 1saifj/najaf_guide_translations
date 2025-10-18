@@ -1,0 +1,20 @@
+{
+  "title": "Appreciation & Acknowledgments",
+  "subtitle": "We gratefully recognize the open-source community, fonts, and tools that make Najaf Guide possible.",
+  "back": "Back to Home",
+  "design_system": {
+    "title": "Design System",
+    "description": "This page follows our design system: Poppins/Almarai font stack, Tailwind-based spacing and the primary/secondary color palette used across the site."
+  },
+  "fonts": {
+    "title": "Fonts",
+    "via_google": "— via Google Fonts"
+  },
+  "libraries": {
+    "title": "Open-source Libraries & Tools"
+  },
+  "thanks": {
+    "title": "Thank You",
+    "message": "We extend our sincere gratitude to all maintainers, contributors, and designers in the open-source ecosystem. Your work empowers communities worldwide."
+  }
+}

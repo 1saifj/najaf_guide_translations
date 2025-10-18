@@ -1,0 +1,29 @@
+{
+  "logo": {
+    "title": "نجف گائیڈ",
+    "subtitle": "آپ کا مکمل شہری رہنما"
+  },
+  "main": {
+    "home": "ہوم",
+    "features": "خصوصیات",
+    "showcase": "ایپ پیش منظر",
+    "services": "خدمات",
+    "faq": "عمومی سوالات",
+    "about": "ہمارے بارے میں",
+    "contact": "رابطہ کریں",
+    "download": "ڈاؤن لوڈ"
+  },
+  "footer": {
+    "company": "کمپنی",
+    "product": "پروڈکٹ",
+    "resources": "وسائل",
+    "legal": "قانونی",
+    "privacy": "رازداری کی پالیسی",
+    "terms": "استعمال کی شرائط",
+    "cookies": "کوکی پالیسی"
+  },
+  "breadcrumb": {
+    "home": "ہوم",
+    "separator": "/"
+  }
+}

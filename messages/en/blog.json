@@ -1,0 +1,61 @@
+{
+  "badge": "Najaf Insights",
+  "title": "Stories and Guides",
+  "subtitle": "Explore Najaf through tips, places, and culture",
+  "description": "Practical guides, local insights, and updates to help you make the most of your visit.",
+  "stats": {
+    "articles": "Articles",
+    "categories": "Categories",
+    "readers": "Monthly Readers"
+  },
+  "sectionBadge": "Latest Articles",
+  "sectionTitle": "From the Najaf Guide Blog",
+  "sectionDescription": "Curated reads on where to go, what to eat, and how to plan your trip.",
+  "featured": "Featured",
+  "readMore": "Read more",
+  "loadMore": "Load more",
+  "categories": {
+    "all": "All",
+    "places": "Places",
+    "food": "Food",
+    "events": "Events",
+    "history": "History",
+    "culture": "Culture",
+    "hotels": "Hotels",
+    "shopping": "Shopping",
+    "health": "Health",
+    "tips": "Tips"
+  },
+  "posts": {
+    "1": {
+      "title": "A First-Timer's Guide to Najaf",
+      "excerpt": "Essential tips for planning, transport, and cultural etiquette.",
+      "category": "Tips"
+    },
+    "2": {
+      "title": "Where to Eat Near the Shrine",
+      "excerpt": "Local favorites for breakfast, lunch, and late-night tea.",
+      "category": "Food"
+    },
+    "3": {
+      "title": "Historic Mosques You Shouldn't Miss",
+      "excerpt": "A short list of spiritual landmarks and why they matter.",
+      "category": "History"
+    },
+    "4": {
+      "title": "Staying in Najaf: Hotels by Area",
+      "excerpt": "How to choose the right area and what to expect.",
+      "category": "Hotels"
+    },
+    "5": {
+      "title": "Markets and Shopping Streets",
+      "excerpt": "Traditional crafts, modern malls, and bargaining tips.",
+      "category": "Shopping"
+    },
+    "6": {
+      "title": "Getting Around Safely",
+      "excerpt": "Navigation, taxis, and walking routes for visitors.",
+      "category": "Tips"
+    }
+  }
+}

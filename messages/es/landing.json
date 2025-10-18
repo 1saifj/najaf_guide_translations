@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "🌟 La App #1 de la Ciudad de Nayaf",
+    "title": "Navega por Nayaf",
+    "subtitle": "Con Confianza",
+    "description": "Únete a más de 50,000 usuarios descubriendo lo mejor de Nayaf. Desde restaurantes ocultos hasta servicios de emergencia confiables, experimenta la ciudad como nunca antes.",
+    "cta": {
+      "app_store": "Gratis en App Store",
+      "google_play": "Gratis en Google Play"
+    },
+    "stats": {
+      "rating": {
+        "value": "4.9",
+        "label": "Calificación de Usuarios"
+      },
+      "users": {
+        "value": "50K+",
+        "label": "Usuarios Felices"
+      },
+      "locations": {
+        "value": "500+",
+        "label": "Lugares Verificados"
+      }
+    }
+  },
+  "features_section": {
+    "badge": "COMPLETE CITY GUIDE",
+    "title": "Everything Najaf",
+    "subtitle": "At Your Fingertips",
+    "description": "Whether you're a tourist exploring the city or a resident looking for services, we've got you covered."
+  }
+}
